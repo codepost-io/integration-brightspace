@@ -1,6 +1,6 @@
 # Integrating with Brightspace
 
-This repository contains short utility scripts that make it easy to connect codePost with Brightspace.
+This repository contains short utility scripts that make it easy to connect codePost with Brightspace. To learn more about codePost, check out the [the codePost website](https://codepost.io). 
 
 A typical lead instructor will usually do something like the following every week:
 
